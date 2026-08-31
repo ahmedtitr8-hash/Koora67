@@ -1,0 +1,2 @@
+[functions.recorder-bot]
+verify_jwt = false

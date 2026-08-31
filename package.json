@@ -1,0 +1,13 @@
+{
+  "name": "koora67-recorder",
+  "version": "1.0.0",
+  "description": "أداة تسجيل مباريات فقط — تسجّل من رابط وترفع النتيجة كأجزاء فيديو لقناة تيليجرام",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0"
+  }
+}
